@@ -17,8 +17,8 @@ export const initialstate= [
   {
     image: `assets/black_knight.png`,
     position: {
-      x: 3,
-      y: 3,
+      x: 1,
+      y: 7,
     },
     type: "KNIGHT",
     team: "OPPONENT",
